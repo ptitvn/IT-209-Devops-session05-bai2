@@ -1,9 +1,5 @@
 # Bài 2: Tái cấu trúc lịch sử commit bằng Interactive Rebase
 
-- **Họ tên:** Lê Trung Đông
-- **GitHub:** ptitvn
-- **Nhánh làm việc:** `feature/auth`
-
 ## 1. Lịch sử commit TRƯỚC khi rebase
 
 Lệnh: `git log --oneline`
